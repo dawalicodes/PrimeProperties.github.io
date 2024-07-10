@@ -115,7 +115,7 @@ global styles
 */
 html,
 body {
-  background: #fff;
+  background: #0d0733;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -156,7 +156,7 @@ body {
 }
 
 .main-border-button a:hover {
-  background-color: #fff;
+  background-color: #fd7e14;
   color: #2a2a2a;
 }
 
@@ -189,7 +189,7 @@ body {
 .section-heading h2 {
   font-size: 34px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #fff;
 }
 
 .section-heading span {
@@ -209,7 +209,7 @@ header
 
 .background-header {
   border-bottom: none !important;
-  background-color: #fff;
+  background-color: #0d0733;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -232,9 +232,9 @@ header
 }
 
 .header-area {
-  border-bottom: 3px dotted #eee;
+  border-bottom: 3px dotted #fd7e14;
   box-shadow: none;
-  background-color: #fff;
+  background-color: #0d0733;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -254,7 +254,7 @@ header
 
 .header-area .main-nav .logo {
   line-height: 100px;
-  color: #fff;
+  color: #0d0733;
   font-size: 28px;
   font-weight: 700;
   text-transform: uppercase;
@@ -368,7 +368,7 @@ header
 .header-area .main-nav .nav li.submenu ul li a {
   opacity: 1;
   display: block;
-  background: #f7f7f7;
+  background: #fd7e14;
   color: #2a2a2a!important;
   padding-left: 20px;
   height: 40px;
@@ -551,7 +551,7 @@ header
     width: 100%;
   }
   .header-area {
-    background-color: #f7f7f7;
+    background-color: #0d0733;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -1091,7 +1091,7 @@ Kids
 #kids {
   padding-top: 90px;
   padding-bottom: 90px;
-  border-bottom: 3px dotted #eee;
+  border-bottom: 3px dotted #fd7e14;
 }
 
 #kids .section-heading {
@@ -1102,19 +1102,19 @@ Kids
   padding-top: 30px;
   position: relative;
   z-index: 3;
-  background-color: #fff;
+  background-color: #fd7e14;
 }
 
 #kids .item .down-content h4 {
   font-size: 22px;
-  color: #2a2a2a;
+  color: #fff;
   font-weight: 700;
   margin-bottom: 8px;
 }
 
 #kids .item .down-content span {
   font-size: 18px;
-  color: #a1a1a1;
+  color: #fff;
   font-weight: 500;
   display: block;
 }
@@ -1163,7 +1163,7 @@ Kids
   line-height: 50px;
   display: inline-block;
   color: #2a2a2a;
-  background-color: #fff;
+  background-color: #fd7e14;
 }
 
 
@@ -1201,7 +1201,7 @@ Kids
   height: 50px;
   background-color: transparent;
   line-height: 48px;
-  border :1px solid #2a2a2a;
+  border :1px solid #fff;
 }
 
 #kids .owl-nav .owl-prev {
@@ -1252,7 +1252,7 @@ Explore
 #explore {
   padding-top: 90px;
   padding-bottom: 90px;
-  border-bottom: 3px dotted #eee;
+  border-bottom: 3px dotted #fd7e14;
 }
 
 #explore .left-content {
@@ -1262,7 +1262,7 @@ Explore
 #explore .left-content h2 {
   font-size: 34px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #fff;
 }
 
 #explore .left-content span {
@@ -1286,7 +1286,7 @@ Explore
 
 #explore .left-content .quote p {
   font-style: italic;
-  color: #2a2a2a;
+  color: #fff;
   font-weight: 500;
 }
 
@@ -1299,8 +1299,8 @@ Explore
 }
 
 #explore .left-content .main-border-button a {
-  color: #2a2a2a;
-  border-color: #2a2a2a;
+  color: #fff;
+  border-color: #fff;
   margin-top: 35px;
 }
 
@@ -1325,7 +1325,7 @@ Explore
 #explore .leather,
 #explore .types {
   min-height: 255px;
-  background-color: #f8f8f8;
+  background-color: #fd7e14;
   text-align: center;
   width: 100%;
 }
@@ -1334,7 +1334,7 @@ Explore
 #explore .types h4 {
   font-size: 24px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #fff;
   padding-top: 90px;
   margin-bottom: 5px;
 }
@@ -1343,7 +1343,7 @@ Explore
 #explore .types span {
   font-size: 14px;
   font-style: italic;
-  color: #aaa;
+  color: #fff;
   font-weight: 500;
 }
 
@@ -1356,7 +1356,7 @@ Social
 #social {
   margin-top: 90px;
   padding-bottom: 90px;
-  border-bottom: 3px dotted #eee;
+  border-bottom: 3px dotted #fd7e14;
 }
 
 #social .col-2 {
